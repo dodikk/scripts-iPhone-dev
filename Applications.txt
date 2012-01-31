@@ -1,0 +1,101 @@
+0xED.app
+Address Book.app
+Adium.app
+App Store.app
+Araxis Merge.app
+Ascension.app
+Automator.app
+CPULed.app
+Calculator.app
+Chess.app
+Cyberduck.app
+DVD Player.app
+Dashboard.app
+Dictionary.app
+Dropbox.app
+FaceTime.app
+Firefox.app
+Font Book.app
+GarageBand.app
+GeekTool.app
+Gimp.app
+GitHub.app
+Gitbox.app
+Go2Shell.app
+Google Chrome.app
+Graphviz.app
+I'm Away.app
+Image Capture.app
+Install Xcode.app
+JD-GUI.app
+Keka.app
+Kopypasta.app
+Launchpad.app
+LibreOffice.app
+Mail.app
+MemoryFree 2.app
+Microsoft Communicator.app
+Microsoft Messenger.app
+Microsoft Office 2011
+Microsoft Silverlight
+Mike T's SQLite Database App.app
+Mission Control.app
+MonoDevelop.app
+My UUID.app
+NovaBench.app
+Octave.app
+OmmWriter.app
+Opera.app
+Paintbrush.app
+Photo Booth.app
+Preview.app
+QtOctave.app
+QuickTime Player.app
+Remote Desktop - VNC.app
+Remote Desktop Connection.app
+SQLiteStudio.app
+Safari.app
+Seashore.app
+Skype.app
+SmartGit 2.1.6
+SmartSVN 6.6.11
+SmartSynchronize.app
+Smultron.app
+SourceTree.app
+StateDiagramEditorFE.app
+Stattoo.app
+Stickies.app
+Symantec Solutions
+System Preferences.app
+TXTcrypt.app
+TeamViewer.app
+TextEdit.app
+TextMate.app
+TextWrangler.app
+The A Editor Lite.app
+Time Machine.app
+TopCoder UML Tool.app
+Trillian.app
+TrueCrypt.app
+UnRarX.app
+Utilities
+VirtualBox.app
+Visual JSON.app
+WingIDE.app
+Wireshark.app
+X-Lite 4.app
+XMind.app
+Xcode-4.3-beta.app
+hudsonTracker.app
+iBooks Author.app
+iCal.app
+iChat.app
+iMovie.app
+iPhoto.app
+iTerm.app
+iText Express.app
+iTunes.app
+kdiff3.app
+muCommander.app
+xPad.app
+yEd
