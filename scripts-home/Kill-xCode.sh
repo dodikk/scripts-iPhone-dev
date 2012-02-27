@@ -1,1 +1,1 @@
-killall -c xCode KILL
+killall -c Xcode KILL
