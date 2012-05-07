@@ -1,0 +1,7 @@
+http://support.apple.com/kb/HT2420
+sudo defaults write com.apple.loginwindow LoginHook /path/to/script
+
+
+
+env EDITOR=nano crontab -e
+@reboot java jar /path/to/jenkins.war
