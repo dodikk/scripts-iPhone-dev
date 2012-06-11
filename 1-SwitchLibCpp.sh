@@ -1,0 +1,1 @@
+find . -name "*.pbxproj" -exec sed -i sed 's:libc++:libstdc++' {} \; -print
