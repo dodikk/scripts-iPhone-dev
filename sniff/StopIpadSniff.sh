@@ -1,0 +1,1 @@
+rvictl -x <GUID>
