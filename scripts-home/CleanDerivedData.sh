@@ -1,5 +1,3 @@
-cd ~/Library/Developer/Xcode
+cd ~/Library/Developer/Xcode/
 rm -rf DerivedData
 mkdir -p DerivedData
-
-
