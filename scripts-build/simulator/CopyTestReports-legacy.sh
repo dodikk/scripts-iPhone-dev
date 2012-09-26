@@ -1,5 +1,10 @@
 LAUNCH_DIR=$PWD
 
+TEMP_DIR=$(/usr/bin/getconf DARWIN_USER_TEMP_DIR)
+TEST_DIR_NAME=test-results
+
+TEST_RESULTS_DIR=$TEMP_DIR$TEST_DIR_NAME
+
 cd ../../
    PROJECT_ROOT=$PWD
    
@@ -14,18 +19,10 @@ TEST_PUBLISH_DIR=$DEPLOYMENT_DIR/test-results
 rm -r -f "$TEST_PUBLISH_DIR"
 mkdir -p "$TEST_PUBLISH_DIR"
 
-
-
-for directory in $( ls -1 ); do
-   echo "$directory/tmp/test-results"
-   ls -1 "$directory/tmp/test-results"
-
-   for report in $( ls -1 "$directory/tmp/test-results/" ); do
-       cp "$directory/tmp/test-results/$report" "$TEST_PUBLISH_DIR"
-   done
-
-   echo "============================"
-done
+cd "$TEST_RESULTS_DIR"
+   pwd
+   cp *.xml "$TEST_PUBLISH_DIR"
+cd "$LAUNCH_DIR"
 
 
 cd "$DEPLOYMENT_DIR"
